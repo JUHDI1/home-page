@@ -12,9 +12,9 @@ This project is a collaborative effort to design and develop a homepage for an o
 - **Navigation Bar**: Easy-to-navigate menu with links to key sections such as Home, About, Our Activity, and Contact Us.
 - **Multilingual Support**: Hashtags and messaging in multiple languages to cater to a diverse audience.
 
+## Project Members
 
-
-- ## Project Members**[Faarax Cabdulaahi]**: 
+- **[Faarax Cabdulaahi]**: 
 - **[Nasro Muuse]**: 
 - **[Axmed Cabdicasiis]**: 
 
@@ -32,14 +32,17 @@ This project is a collaborative effort to design and develop a homepage for an o
 
 2. **Branching**: Each member should create their own branch for any changes they are working on:
     ```bash
-    git checkout -b [branch_name]
+    git branch [branch_name]
     ```
+3. **Switching**: After the creation you have to switch to that branch :
+    ```bash
+    git switch [branch_name]
+    ```
+4. **Pull Requests**: After completing the changes, submit a pull request for review.
 
-3. **Pull Requests**: After completing the changes, submit a pull request for review.
+5. **Review Process**: Each pull request will be reviewed by at least one other member before being merged into the main branch.
 
-4. **Review Process**: Each pull request will be reviewed by at least one other member before being merged into the main branch.
-
-5. **Communication**: Use the project’s Slack/Discord channel for ongoing communication and updates.
+6. **Communication**: Use the project’s Slack/Discord channel for ongoing communication and updates.
 
 ## Installation
 
