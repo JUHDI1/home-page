@@ -14,9 +14,9 @@ This project is a collaborative effort to design and develop a homepage for an o
 
 ## Project Members
 
-- **[Faarax Cabdulaahi]**: Lead Developer/Designer
-- **[Nasro Muuse]**: Frontend Developer
-- **[Axmed Cabdicasiis]**: Backend Developer
+- **[Faarax Cabdulaahi]**: 
+- **[Nasro Muuse]**: 
+- **[Axmed Cabdicasiis]**: 
 
 ## Tech Stack
 
@@ -48,7 +48,11 @@ This project is a collaborative effort to design and develop a homepage for an o
     git clone [https://github.com/faaraxcabdulaahi/home-page-collab]
     cd online-voting-homepage
     ```
+2. **Change the directory**:
+    ```bash
+    cd online-voting-homepage
+    ```
 
-2. **Run the Project**:
+3. **Run the Project**:
     Open the `index.html` file in your browser to view the homepage.
 
