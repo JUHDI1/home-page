@@ -12,9 +12,9 @@ This project is a collaborative effort to design and develop a homepage for an o
 - **Navigation Bar**: Easy-to-navigate menu with links to key sections such as Home, About, Our Activity, and Contact Us.
 - **Multilingual Support**: Hashtags and messaging in multiple languages to cater to a diverse audience.
 
-## Project Members
 
-- **[Faarax Cabdulaahi]**: 
+
+- ## Project Members**[Faarax Cabdulaahi]**: 
 - **[Nasro Muuse]**: 
 - **[Axmed Cabdicasiis]**: 
 
